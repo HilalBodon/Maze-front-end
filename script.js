@@ -4,7 +4,6 @@ let bird2 = document.getElementById('bird2');
 let btn  = document.getElementById('btn');
 let rocks = document.getElementById('rocks');
 let forest = document.getElementById('forest');
-let water = document.getElementById('water');
 let header = document.getElementById('header');
 
 window.addEventListener('scroll', function(){
